@@ -1,0 +1,7 @@
+class Factura {
+    
+       Date fecha;
+       List <Peoducto> productos;
+       Double precio;
+
+}
